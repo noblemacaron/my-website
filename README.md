@@ -11,10 +11,8 @@
         <button id="start-button">スタート</button>
     </div>
     <script src="app.js"></script>
-</body>
-</html>
+<style>
 /* styles.css */
-<css>
 body {
     font-family: Arial, sans-serif;
 }
@@ -23,7 +21,6 @@ body {
     text-align: center;
     margin-top: 50px;
 }
-</css>
 
 #game-area {
     margin: 20px auto;
@@ -31,3 +28,7 @@ body {
     height: 400px;
     border: 1px solid #000;
 }
+
+ </style>
+</body>
+</html>
