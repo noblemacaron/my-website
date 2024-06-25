@@ -13,3 +13,19 @@
     <script src="app.js"></script>
 </body>
 </html>
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#game-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#game-area {
+    margin: 20px auto;
+    width: 80%;
+    height: 400px;
+    border: 1px solid #000;
+}
