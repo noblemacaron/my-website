@@ -14,6 +14,7 @@
 </body>
 </html>
 /* styles.css */
+<css>
 body {
     font-family: Arial, sans-serif;
 }
@@ -22,6 +23,7 @@ body {
     text-align: center;
     margin-top: 50px;
 }
+</css>
 
 #game-area {
     margin: 20px auto;
