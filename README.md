@@ -2,7 +2,7 @@
 <html>
 <head>
     プログラミング学習ゲーム
-    <link rel="stylesheet" type="text/css" href="styles.cs">
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <div id="game-container">
