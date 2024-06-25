@@ -20,39 +20,5 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.12/ace.js"></script>
     <script src="app.js"></script>
-<style>
-/* styles.css */
-body {
-    font-family: Arial, sans-serif;
-}
-
-#game-container {
-    text-align: center;
-    margin-top: 50px;
-}
-
-#level-selection button {
-    margin: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-}
-
-#game-area {
-    margin-top: 20px;
-}
-
-#code-editor {
-    width: 80%;
-    height: 300px;
-    margin: 0 auto;
-    border: 1px solid #000;
-}
-
-#submit-button {
-    margin-top: 20px;
-    padding: 10px 20px;
-    font-size: 16px;
-}
-</style>
 </body>
 </html>
